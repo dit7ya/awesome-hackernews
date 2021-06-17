@@ -150,6 +150,7 @@ You may also want to visit [awesome-hacker-news](https://github.com/cheeaun/awes
 - [Newsit](https://newsit.benwinding.com/) - Find the top voted Hackernews or Reddit discussion around the page you're looking at. ([Source Code](https://github.com/benwinding/newsit)) `MIT`
 - [Refined Hacker News](https://addons.mozilla.org/en-US/firefox/addon/refined-hacker-news/) - Interface tweaks and features to make the HN experience better. ([Source Code](https://github.com/plibither8/refined-hacker-news)) `MIT`
 - [What Hacker News Says](https://addons.mozilla.org/en-US/firefox/addon/what-hacker-news-says/) - Easily find discussions about the page you're currently browsing. ([Source Code](https://github.com/pinoceniccola/what-hn-says-webext)) `MIT`
+- [hnlinks](https://github.com/dit7ya/hnlinks) - Adds a sidebar to threads which collects all the external links from comments and shows if a link has been previously posted in HN. ([Source Code](https://github.com/dit7ya/hnlinks)) `GPL-3.0`
 
 ---
 
